@@ -1,0 +1,15 @@
+.transactionHistory {
+  width: 700px;
+  margin: auto;
+}
+
+.transactionHistory th,
+.transactionHistory td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+}
+
+.transactionHistory th {
+  background-color: #f2f2f2;
+}
